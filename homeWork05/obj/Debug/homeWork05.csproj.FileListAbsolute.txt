@@ -1,0 +1,6 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\homeWork05\homeWork05\bin\Debug\homeWork05.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\homeWork05\homeWork05\bin\Debug\homeWork05.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\homeWork05\homeWork05\bin\Debug\homeWork05.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\homeWork05\homeWork05\obj\Debug\homeWork05.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\homeWork05\homeWork05\obj\Debug\homeWork05.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\homeWork05\homeWork05\obj\Debug\homeWork05.pdb
